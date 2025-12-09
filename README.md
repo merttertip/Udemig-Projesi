@@ -4,7 +4,7 @@
     Bu proje göze hitap eden estetik bir web yazılım eğitimi alma sitesi tasarımıdır. Zarif dizaynıyla dikkatleri çekmektedir.
 </p>
 
-![Image](https://github.com/user-attachments/assets/3c136fe0-c07b-4888-be15-015e6cac685a)
+![](ekran.gif)
 
 <hr>
 
